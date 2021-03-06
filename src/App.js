@@ -1,5 +1,5 @@
 import './App.css'
-import Wrapper from './lessons/performance/Wrapper'
+import Wrapper from './lessons/style-react/Wrapper'
 
 const App = () => {
 	return (
