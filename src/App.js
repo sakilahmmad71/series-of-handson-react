@@ -1,5 +1,5 @@
 import './App.css'
-import Wrapper from './lessons/react-lazy/Wrapper'
+import Wrapper from './lessons/react-web-api/Wrapper';
 
 const App = () => {
 	return (
